@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/shopping_cart/static/css/main.1890bd7d.css",
+    "main.js": "/shopping_cart/static/js/main.2496ad8e.js",
+    "static/media/pexels-shantanu-pal-2802527.jpg": "/shopping_cart/static/media/pexels-shantanu-pal-2802527.e7cac524bca8ee555eff.jpg",
+    "static/media/pexels-nipananlifestylecom-1424457.jpg": "/shopping_cart/static/media/pexels-nipananlifestylecom-1424457.7a93dded7a38ed9043c3.jpg",
+    "static/media/pexels-engin-akyurt-2899682.jpg": "/shopping_cart/static/media/pexels-engin-akyurt-2899682.9f626376ba650988481f.jpg",
+    "static/media/pexels-eva-bronzini-6824475.jpg": "/shopping_cart/static/media/pexels-eva-bronzini-6824475.9e7f8640f14c45334cfd.jpg",
+    "static/media/pexels-monicore-1391505.jpg": "/shopping_cart/static/media/pexels-monicore-1391505.a5bbbb70267ba090e515.jpg",
+    "static/media/pexels-mark-stebnicki-2893639.jpg": "/shopping_cart/static/media/pexels-mark-stebnicki-2893639.0dde7af470ce6fd843f0.jpg",
+    "static/media/pexels-nghia-pm-1206597.jpg": "/shopping_cart/static/media/pexels-nghia-pm-1206597.fb16259eb1b4f2cfef5d.jpg",
+    "static/media/pexels-adam-lukac-773958.jpg": "/shopping_cart/static/media/pexels-adam-lukac-773958.02d6f5f927163d45897f.jpg",
+    "index.html": "/shopping_cart/index.html",
+    "main.1890bd7d.css.map": "/shopping_cart/static/css/main.1890bd7d.css.map",
+    "main.2496ad8e.js.map": "/shopping_cart/static/js/main.2496ad8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1890bd7d.css",
+    "static/js/main.2496ad8e.js"
+  ]
+}
