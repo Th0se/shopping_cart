@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shopping_cart/static/css/main.e9e4c967.css",
-    "main.js": "/shopping_cart/static/js/main.60a2c28d.js",
+    "main.js": "/shopping_cart/static/js/main.84816886.js",
     "static/media/pexels-shantanu-pal-2802527.jpg": "/shopping_cart/static/media/pexels-shantanu-pal-2802527.e7cac524bca8ee555eff.jpg",
     "static/media/pexels-nipananlifestylecom-1424457.jpg": "/shopping_cart/static/media/pexels-nipananlifestylecom-1424457.7a93dded7a38ed9043c3.jpg",
     "static/media/pexels-engin-akyurt-2899682.jpg": "/shopping_cart/static/media/pexels-engin-akyurt-2899682.9f626376ba650988481f.jpg",
@@ -12,10 +12,10 @@
     "static/media/pexels-adam-lukac-773958.jpg": "/shopping_cart/static/media/pexels-adam-lukac-773958.02d6f5f927163d45897f.jpg",
     "index.html": "/shopping_cart/index.html",
     "main.e9e4c967.css.map": "/shopping_cart/static/css/main.e9e4c967.css.map",
-    "main.60a2c28d.js.map": "/shopping_cart/static/js/main.60a2c28d.js.map"
+    "main.84816886.js.map": "/shopping_cart/static/js/main.84816886.js.map"
   },
   "entrypoints": [
     "static/css/main.e9e4c967.css",
-    "static/js/main.60a2c28d.js"
+    "static/js/main.84816886.js"
   ]
 }
